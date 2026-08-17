@@ -1,7 +1,7 @@
 {
   "header": {
     "logo": "https://www.dastresi.com/images/logo/logo.png",
-    "searchIcon": "/Images/search_icon.png",
+    "searchIcon": "/dastresi/Images/search_icon.png",
     "NavLinkPage": [
       {
         "id": 1,
