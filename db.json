@@ -1,0 +1,599 @@
+{
+  "header": {
+    "logo": "https://www.dastresi.com/images/logo/logo.png",
+    "searchIcon": "/Images/search_icon.png",
+    "NavLinkPage": [
+      {
+        "id": 1,
+        "title": "باشگاه مشتریان"
+      },
+      {
+        "id": 2,
+        "title": "بلاگ"
+      },
+      {
+        "id": 3,
+        "title": "ارتباط ما"
+      },
+      {
+        "id": 4,
+        "title": "درباره ما"
+      }
+    ],
+    "BtnLogin": "ورود و ثبت‌نام",
+    "Menu": [
+      {
+        "id": 1,
+        "title": "خانه"
+      },
+      {
+        "id": 2,
+        "title": "لوازم جانبی موبایل و کامپیوتر",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "کابل شارژ"
+          },
+          {
+            "id": 2,
+            "title": "هولدر و نگهدارنده"
+          },
+          {
+            "id": 3,
+            "title": "تجهیزات ذخیره سازی"
+          },
+          {
+            "id": 4,
+            "title": "هندزفری و هدست، میکروفون"
+          },
+          {
+            "id": 5,
+            "title": "پاوربانک"
+          },
+          {
+            "id": 6,
+            "title": "ماوس و کیبورد و پدموس"
+          },
+          {
+            "id": 7,
+            "title": "آداپتور و شارژر"
+          },
+          {
+            "id": 8,
+            "title": "دسته بازی و خنک کننده موبایل"
+          },
+          {
+            "id": 9,
+            "title": "انواع تبدیل برق"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "کابل - مبدل - رابط",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "کابل HDMI"
+          },
+          {
+            "id": 2,
+            "title": "کابل پرینتر"
+          },
+          {
+            "id": 3,
+            "title": "کابل هارد اکسترنال"
+          },
+          {
+            "id": 4,
+            "title": "انواع رابط و تبدیل"
+          },
+          {
+            "id": 5,
+            "title": "کابل 2 به 1 صدا"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "لوازم تولید محتوا",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "میکروفون"
+          },
+          {
+            "id": 2,
+            "title": "رینگ لایت و پایه"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "لوازم شبکه",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "مودم - روتر"
+          },
+          {
+            "id": 2,
+            "title": "هاب شبکه"
+          },
+          {
+            "id": 3,
+            "title": "مودم همراه"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "کنسول بازی و لوازم جانبی",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "دسته بازی "
+          },
+          {
+            "id": 2,
+            "title": "هندزفری و هدست"
+          },
+          {
+            "id": 3,
+            "title": "موس و کیبورد"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "لوازم خانگی و شخصی",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "انواع گجت های جذاب"
+          },
+          {
+            "id": 2,
+            "title": "ماشین اصلاح سر و صورت"
+          },
+          {
+            "id": 3,
+            "title": "رابط برق و USB"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "برند‌ها",
+        "link": "مشاهده دیگر برندها ",
+        "Acardeon": [
+          [
+            {
+              "id": 1,
+              "titleFa": "هایلو",
+              "titleEn": "Haylou"
+            },
+            {
+              "id": 2,
+              "titleFa": "دای هارد",
+              "titleEn": "Die Hard"
+            },
+            {
+              "id": 3,
+              "titleFa": "اسکال کندی",
+              "titleEn": "SkullCandy"
+            },
+            {
+              "id": 4,
+              "titleFa": "اپل",
+              "titleEn": "Apple"
+            },
+            {
+              "id": 5,
+              "titleFa": "کملیون",
+              "titleEn": "Camelion"
+            },
+            {
+              "id": 6,
+              "titleFa": "کلومن پلاس",
+              "titleEn": "Koluman Plus"
+            }
+          ],
+          [
+            {
+              "id": 7,
+              "titleFa": "انکر",
+              "titleEn": "Anker"
+            },
+            {
+              "id": 8,
+              "titleFa": "آینوبن",
+              "titleEn": "inoben"
+            },
+            {
+              "id": 9,
+              "titleFa": "مومکس",
+              "titleEn": "Momax"
+            },
+            {
+              "id": 10,
+              "titleFa": "وسترن دیجیتال",
+              "titleEn": "Western Digital"
+            },
+            {
+              "id": 11,
+              "titleFa": "شیائومی",
+              "titleEn": "Xiaomi"
+            },
+            {
+              "id": 12,
+              "titleFa": "پاناسونیک",
+              "titleEn": "Panasonic"
+            }
+          ],
+          [
+            {
+              "id": 13,
+              "titleFa": "یسیدو",
+              "titleEn": "yesido"
+            },
+            {
+              "id": 14,
+              "titleFa": "نازتک",
+              "titleEn": "Naztech"
+            },
+            {
+              "id": 15,
+              "titleFa": "پرووان",
+              "titleEn": "ProOne"
+            },
+            {
+              "id": 16,
+              "titleFa": "ال دی نیو",
+              "titleEn": "Ldnio"
+            },
+            {
+              "id": 17,
+              "titleFa": "دوراسل",
+              "titleEn": "Duracell"
+            },
+            {
+              "id": 18,
+              "titleFa": "سومو",
+              "titleEn": "Somo"
+            }
+          ],
+          [
+            {
+              "id": 19,
+              "titleFa": "نیکین",
+              "titleEn": "Neekin"
+            },
+            {
+              "id": 20,
+              "titleFa": "پایونیر",
+              "titleEn": "pioneer"
+            },
+            {
+              "id": 21,
+              "titleFa": "جی پی",
+              "titleEn": "GP"
+            },
+            {
+              "id": 22,
+              "titleFa": "ای فورتک",
+              "titleEn": "A4tech"
+            },
+            {
+              "id": 23,
+              "titleFa": "وان مور",
+              "titleEn": "1more"
+            },
+            {
+              "id": 24,
+              "titleFa": "مکسِل",
+              "titleEn": "Maxell"
+            }
+          ],
+          [
+            {
+              "id": 25,
+              "titleFa": "بیسوس",
+              "titleEn": "Baseus"
+            },
+            {
+              "id": 26,
+              "titleFa": "بویا",
+              "titleEn": "Boya"
+            },
+            {
+              "id": 27,
+              "titleFa": "مک دودو",
+              "titleEn": "Mcdodo"
+            },
+            {
+              "id": 28,
+              "titleFa": "پاورولوجی",
+              "titleEn": "Powerology"
+            },
+            {
+              "id": 29,
+              "titleFa": "راوپاور",
+              "titleEn": "Ravpower"
+            },
+            {
+              "id": 30,
+              "titleFa": "آکی",
+              "titleEn": "Aukey"
+            }
+          ]
+        ]
+      }
+    ],
+    "MenuMobile": [
+      {
+        "id": 1,
+        "title": "خانه"
+      },
+      {
+        "id": 2,
+        "title": "درباره ما"
+      },
+      {
+        "id": 3,
+        "title": "تماس با ما"
+      },
+      {
+        "id": 4,
+        "title": "بلاگ"
+      }
+    ],
+    "AcardeonMenuMobile": [
+      {
+        "id": 1,
+        "title": "لوازم جانبی موبایل و کامپیوتر",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "کابل شارژ"
+          },
+          {
+            "id": 2,
+            "title": "هولدر و نگهدارنده"
+          },
+          {
+            "id": 3,
+            "title": "تجهیزات ذخیره سازی"
+          },
+          {
+            "id": 4,
+            "title": "هندزفری و هدست، میکروفون"
+          },
+          {
+            "id": 5,
+            "title": "پاوربانک"
+          },
+          {
+            "id": 6,
+            "title": "ماوس و کیبورد و پدموس"
+          },
+          {
+            "id": 7,
+            "title": "آداپتور و شارژر"
+          },
+          {
+            "id": 8,
+            "title": "دسته بازی و خنک کننده موبایل"
+          },
+          {
+            "id": 9,
+            "title": "انواع تبدیل برق"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "کابل - مبدل - رابط",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "کابل HDMI"
+          },
+          {
+            "id": 2,
+            "title": "کابل پرینتر"
+          },
+          {
+            "id": 3,
+            "title": "کابل هارد اکسترنال"
+          },
+          {
+            "id": 4,
+            "title": "انواع رابط و تبدیل"
+          },
+          {
+            "id": 5,
+            "title": "کابل 2 به 1 صدا"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "لوازم تولید محتوا",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "میکروفون"
+          },
+          {
+            "id": 2,
+            "title": "رینگ لایت و پایه"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "لوازم شبکه",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "مودم - روتر"
+          },
+          {
+            "id": 2,
+            "title": "هاب شبکه"
+          },
+          {
+            "id": 3,
+            "title": "مودم همراه"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "کنسول بازی و لوازم جانبی",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "دسته بازی "
+          },
+          {
+            "id": 2,
+            "title": "هندزفری و هدست"
+          },
+          {
+            "id": 3,
+            "title": "موس و کیبورد"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "لوازم خانگی و شخصی",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "انواع گجت های جذاب"
+          },
+          {
+            "id": 2,
+            "title": "ماشین اصلاح سر و صورت"
+          },
+          {
+            "id": 3,
+            "title": "رابط برق و USB"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "برند‌ها",
+        "Acardeon": [
+          {
+            "id": 1,
+            "title": "اپل | Apple"
+          },
+          {
+            "id": 2,
+            "title": "شیائومی | Xiaomi"
+          },
+          {
+            "id": 3,
+            "title": "جی پی | GP"
+          }
+        ]
+      }
+    ],
+    "JoinBtn": "ورود به باشگاه مشتریان"
+  },
+  "SliderFullPage": [
+    {
+      "id": 1,
+      "urlMobile": "https://www.dastresi.com/upload/filemanager/2026/06/30/miband10mob.jpg",
+      "url": "https://www.dastresi.com/upload/filemanager/2026/06/30/mib10-dastresi-desk%20(1).jpg"
+    },
+    {
+      "id": 2,
+      "urlMobile": "https://www.dastresi.com/upload/filemanager/2026/06/28/leb5-mobile.jpg",
+      "url": "https://www.dastresi.com/upload/filemanager/2026/06/28/leb-5%20(2).jpg"
+    },
+    {
+      "id": 3,
+      "urlMobile": "https://www.dastresi.com/upload/filemanager/2026/05/23/somsung-banner-dastresi-mobile.jpg",
+      "url": "https://www.dastresi.com/upload/filemanager/2026/05/23/banner-somsung--dastresi-banner.jpg"
+    },
+    {
+      "id": 4,
+      "urlMobile": "https://www.dastresi.com/upload/filemanager/2026/04/26/anker-banner-dastresi-mobile.jpg",
+      "url": "https://www.dastresi.com/upload/filemanager/2026/08/02/cool-dastresi.jpg"
+    },
+    {
+      "id": 5,
+      "urlMobile": "https://www.dastresi.com/upload/filemanager/2026/04/26/anker-banner-dastresi-mobile.jpg",
+      "url": "https://www.dastresi.com/upload/filemanager/2026/04/26/anker-banner-dastresi.jpg"
+    }
+  ],
+  "SideBarSlider": {
+    "title": "تخفیف‌های روزانه دسترسی",
+    "data": [
+      [
+        {
+          "id": 1,
+          "url": "https://www.dastresi.com/upload/filemanager/2025/12/09/PWC300-11.jpg",
+          "urlMobile": "",
+          "title": "اینورتر 300 واتی با کابل متصل تایپ سی و لایتنینگ پاورولوژی مدل Powerology PWCPI300WBK",
+          "count": "11,630,000",
+          "discount": "تومان تخفیف 4,850,000",
+          "price": "6,780,000"
+        },
+        {
+          "id": 2,
+          "url": "https://www.dastresi.com/upload/filemanager/2025/06/12/EDC-9W-11.jpg",
+          "urlMobile": "",
+          "title": "لامپ 9W حبابی اضطراری شارژی EDC",
+          "count": "1,190,000",
+          "discount": "تومان تخفیف 300,000",
+          "price": "890,000"
+        },
+        {
+          "id": 3,
+          "url": "https://www.dastresi.com/upload/filemanager/2026/08/02/KAMAR-11.jpg",
+          "urlMobile": "",
+          "title": "پنکه کمری شارژی مدل ZAY-F013",
+          "count": "2,490,000",
+          "discount": "تومان تخفیف 500,000",
+          "price": " 1,990,000 "
+        }
+      ],
+      [
+        {
+          "id": 4,
+          "url": "https://www.dastresi.com/upload/filemanager/2026/05/07/15532208-dastresi-1.jpg",
+          "urlMobile": "",
+          "title": "پاوربانک 20 هزار 22.5 واتی مک دودو با کابل متصل مدل Mcdodo MC-8530",
+          "count": " 4,490,000",
+          "discount": "500,000 تومان تخفیف",
+          "price": "3,990,000"
+        },
+        {
+          "id": 5,
+          "url": "https://www.dastresi.com/upload/filemanager/2025/06/12/EDC-9W-11.jpg",
+          "urlMobile": "",
+          "title": "لامپ 9W حبابی اضطراری شارژی EDC",
+          "count": "1,190,000",
+          "discount": "تومان تخفیف 300,000",
+          "price": "890,000"
+        },
+        {
+          "id": 6,
+          "url": "https://www.dastresi.com/upload/filemanager/2026/06/21/greeen-2222.jpg",
+          "urlMobile": "",
+          "title": "چراغ خواب پروژکتوری کهکشانی گرین ل...",
+          "count": "1,190,000",
+          "discount": "تومان تخفیف 300,000",
+          "price": "890,000"
+        }
+      ]
+    ]
+  }
+}
