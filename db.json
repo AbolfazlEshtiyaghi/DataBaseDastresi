@@ -632,5 +632,231 @@
         "url": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png"
       }
     ]
+  },
+  "AgainSlider": {
+    "title": "همین الان موجود شد...",
+    "data": [
+      {
+        "id": 1,
+        "title": "رابط برق 4 خانه 10 متری پرودو مدل ...",
+        "category": "انواع گجت های جذاب",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/02/15/PORODO10M-11.jpg",
+        "state": true,
+        "message": "ناموجود"
+      },
+      {
+        "id": 2,
+        "title": "پمپ باد گرین INFLATOR مدل Green Li...",
+        "url": "https://www.dastresi.com/upload/filemanager/2025/04/12/POMP-GREEN-11.jpg",
+        "category": "انواع گجت های جذاب",
+        "discount": "7,500,000",
+        "price": "6,720,000",
+        "state": false
+      },
+      {
+        "id": 3,
+        "title": "شارژر رومیزی 140 واتی الدینیو مدل ...",
+        "url": "https://www.dastresi.com/upload/filemanager/2025/04/05/Q4010-11.jpg",
+        "category": "شارژر رومیزی",
+        "state": true,
+        "message": "ناموجود"
+      },
+      {
+        "id": 4,
+        "title": "پاوربانک 27600 میلی آمپر 130 واتی ...",
+        "url": "https://www.dastresi.com/upload/filemanager/2025/01/13/ORAIMO725-11.jpg",
+        "category": "پاوربانک",
+        "discount": "10,800,000",
+        "price": "10,660,000",
+        "state": false
+      },
+      {
+        "id": 5,
+        "title": "کابل HDMI به VGA مک دودو مدل Mcdod...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/06/30/MCDODO-7770-11.jpg",
+        "category": "کابل - مبدل - رابط ",
+        "discount": "2,090,000",
+        "price": "1,590,000",
+        "state": false
+      },
+      {
+        "id": 6,
+        "title": "اسپیکر بلوتوثی انکر سلکت 4 گو 5 وا...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/06/27/anker3172-11.jpg",
+        "category": "اسپیکر",
+        "discount": "",
+        "price": "3,540,000",
+        "state": false
+      },
+      {
+        "id": 7,
+        "title": "چراغ خواب پروژکتوری کهکشانی گرین ل...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/06/21/greeen-2222.jpg",
+        "category": "انواع گجت های جذاب",
+        "state": true,
+        "message": "ناموجود"
+      },
+      {
+        "id": 8,
+        "title": "هولدر وکیوم چرخش 360 درجه مک دودو ...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/02/23/MCDODO-8420-11.jpg",
+        "category": "هولدر و نگهدارنده",
+        "discount": "",
+        "price": "5,100,000",
+        "state": false
+      },
+      {
+        "id": 9,
+        "title": "ساعت هوشمند مک دودو مدل Mcdodo IW-...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/02/23/mcdodo-757-11.jpg",
+        "category": "انواع گجت های جذاب",
+        "discount": "",
+        "price": "5,100,000",
+        "state": false
+      },
+      {
+        "id": 10,
+        "title": "جامپ استارتر و پمپ باد 15200 میلی ...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/02/22/PORO4KARE-111.jpg",
+        "category": "انواع گجت های جذاب",
+        "discount": "",
+        "price": "15,500,000",
+        "state": false
+      }
+    ]
+  },
+  "AgainSlider2": {
+    "title": "",
+    "data": [
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      },
+      {
+        "id": 1,
+        "title": "",
+        "url": "",
+        "category": "",
+        "discount": "",
+        "price": "",
+        "state": true,
+        "message": ""
+      }
+    ]
+  },
+  "Article": {
+    "title": "چرا دسترسی رو برای خرید انتخاب کنیم؟",
+    "data": [
+      {
+        "id": 1,
+        "url": "https://www.dastresi.com/images/icons/icon2.png",
+        "title": "مشاوره تخصصی برای خرید محصول",
+        "description": " برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
+      },
+      {
+        "id": 2,
+        "url": "https://www.dastresi.com/images/icons/icon1.png",
+        "title": "قیمت مناسب با بالاترین کیفیت",
+        "description": "گروه دسترسی در تلاش است که  کالای با کیفیت را با مناسب‌ترین قیمت به دست شما برساند."
+      },
+      {
+        "id": 3,
+        "url": "https://www.dastresi.com/images/icons/icon3.png",
+        "title": "ارسال سریع",
+        "description": "ارسال از طریق تیپاکس، پست پیشتاز و پیک موتوری (ویژه تهران) صورت می گیرد."
+      },
+      {
+        "id": 4,
+        "url": "https://www.dastresi.com/images/icons/icon4.png",
+        "title": "امکان خرید حضوری",
+        "description": "مشتری گرامی جهت خرید حضوری می‌توانید به آدرس مندرج در پایین سایت مراجعه نمایید."
+      }
+    ]
   }
 }
