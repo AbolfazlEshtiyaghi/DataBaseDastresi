@@ -726,107 +726,106 @@
     ]
   },
   "AgainSlider2": {
-    "title": "",
+    "title": "پرفروش‌ترین محصولات",
     "data": [
       {
         "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "title": "کیبورد بلوتوثی مافی مدل Mofii Phoe...",
+        "url": "https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+        "category": "ماوس و کیبورد و پدموس",
+        "discount": "3,190,000",
+        "price": "2,990,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 2,
+        "title": "هندزفری بلوتوثی ورزشی القایی پاورو...",
+        "url": "https://www.dastresi.com/upload/filemanager/2024/10/02/0088-1.jpg",
+        "category": "هندزفری بلوتوثی",
+        "discount": "5,100,000",
+        "price": "4,800,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 3,
+        "title": "شارژر دیواری گان 100 واتی الدینیو ...",
+        "url": "https://www.dastresi.com/upload/filemanager/2024/09/30/Untitled-1.jpg",
+        "category": "شارژر دیواری",
+        "discount": "5,100,000",
+        "price": "4,500,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 4,
+        "title": "فلش مموری وریتی ظرفیت 64 گیگ مدل V...",
+        "url": "https://www.dastresi.com/upload/filemanager/2021/03/17/VER-810-1.jpg",
+        "category": "فلش مموری",
+        "discount": "1,103,000",
+        "price": "950,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 5,
+        "title": "فلش مموری وریتی ظرفیت 16 گیگ مدل V...",
+        "url": "https://www.dastresi.com/upload/filemanager/2021/03/17/VER-810-1.jpg",
+        "category": "فلش مموری",
+        "discount": "650,000",
+        "price": "620,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 6,
+        "title": "شارژر دیواری راوپاور 20 واتی گان5 ...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/06/23/3135123-3.jpg",
+        "category": "لوازم جانبی موبایل و کامپیوتر",
+        "discount": "1,850,000",
+        "price": "1,350,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 7,
+        "title": "پمپ باد گرین INFLATOR مدل Green Li...",
+        "url": "https://www.dastresi.com/upload/filemanager/2025/04/12/POMP-GREEN-11.jpg",
+        "category": "انواع گجت های جذاب",
+        "discount": "7,500,000",
+        "price": "6,720,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 8,
+        "title": "شارژر دیواری 67 واتی گان با کابل ت...",
+        "url": "https://www.dastresi.com/upload/filemanager/2025/03/03/MCDODO-4100-11.jpg",
+        "category": "شارژر دیواری",
+        "discount": "4,500,000",
+        "price": "4,264,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
-        "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "id": 9,
+        "title": "شارژر دیواری 25 وات هادرون مدل Had...",
+        "url": "https://www.dastresi.com/upload/filemanager/2025/02/13/HADRON-25W-22.jpg",
+        "category": "شارژر دیواری",
+        "discount": "1,500,000",
+        "price": "1,470,000",
+        "state": false
       },
       {
-        "id": 1,
-        "title": "",
-        "url": "",
-        "category": "",
+        "id": 10,
+        "title": "باتری نیم قلم 10 تایی شیائومی مدل ...",
+        "url": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+        "category": "باتری آلکالاین",
         "discount": "",
-        "price": "",
-        "state": true,
-        "message": ""
+        "price": "890,000",
+        "state": false
+      },
+      {
+        "id": 11,
+        "title": "باتری قلمی 10تایی شیائومی مدل Xiao...",
+        "url": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-11.jpg",
+        "category": "باتری آلکالاین",
+        "discount": "",
+        "price": "890,000",
+        "state": false
       }
     ]
   },
