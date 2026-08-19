@@ -857,5 +857,83 @@
         "description": "مشتری گرامی جهت خرید حضوری می‌توانید به آدرس مندرج در پایین سایت مراجعه نمایید."
       }
     ]
+  },
+  "BrandSlider":{
+    "title":"محبوب ترین برندها",
+    "data":[
+      {
+        "id":1,
+        "url":"https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg"
+      },
+      {
+        "id":2,
+        "url":"https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg"
+      },
+      {
+        "id":3,
+        "url":"https://www.dastresi.com/upload/filemanager/2022/04/09/somo%20logo.png"
+      },
+      {
+        "id":4,
+        "url":"https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg"
+      },
+      {
+        "id":5,
+        "url":"https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg"
+      },
+      {
+        "id":6,
+        "url":"https://www.dastresi.com/upload/filemanager/2024/11/21/Untitled-1.jpg"
+      },
+      {
+        "id":7,
+        "url":"https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg"
+      }
+    ]
+  },
+  "QuestionSlider":{
+    "title":"محبوب ترین برندها",
+    "data":[
+      {
+        "id":1,
+        "title":"راهنمای قدم به قدم علت شارژ نشدن پاوربانک + رفع مشکل",
+        "url":"https://www.dastresi.com/upload/filemanager/2026/06/27/power-bank-wont-charge-fix-dastresi-featured-1.jpg"
+      },
+      {
+        "id":2,
+        "title":"مشکل پاوربانک؛ علت شارژ نشدن و رفع قدم‌به‌قدم",
+        "url":"https://www.dastresi.com/upload/filemanager/2026/08/18/w16-hero-wm.jpg"
+      },
+      {
+        "id":3,
+        "title":"هندزفری مناسب مکالمه با ENC؛ راهنمای انتخاب کاربردی",
+        "url":"https://www.dastresi.com/upload/filemanager/2026/08/17/w15-hero-wm.jpg"
+      },
+      {
+        "id":4,
+        "title":"مشکل کابل شارژ آیفون؛ علت‌های رایج و راه‌حل‌های عملی",
+        "url":"https://www.dastresi.com/upload/filemanager/2026/08/17/w07-hero-wm92.jpg"
+      },
+      {
+        "id":5,
+        "title":"مقایسه و بررسی هندزفری لیبرتی ۵ پرو و لیبرتی ۵ پرومکس ا...",
+        "url":"https://www.dastresi.com/upload/filemanager/2026/07/05/52387652-1.jpg"
+      },
+      {
+        "id":6,
+        "title":"راهنمای انتخاب و خرید بهترین شارژر برای سامسونگ S26 Ult...",
+        "url":"https://www.dastresi.com/upload/filemanager/2026/06/30/image-dastresi-featured-1.jpg"
+      },
+      {
+        "id":7,
+        "title":"راهنمای خرید شارژر فندکی خودرو + ۱۰ مدل برتر",
+        "url":"https://www.dastresi.com/upload/filemanager/2026/06/29/car-charger-buying-guide-top-10-dastresi-featured-1.jpg"
+      }
+    ]
+  },
+  "Footer":{
+  "Part1":{
+    
+  }
   }
 }
