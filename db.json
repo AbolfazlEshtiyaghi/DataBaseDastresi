@@ -943,13 +943,13 @@
         "id": 2,
         "title": "ارسال سریع",
         "description": "ارسال به سراسر کشور",
-        "icon": "fa fa-truck"
+        "icon": "fa fa-wheelchair-alt"
       },
       {
         "id": 3,
         "title": "پشتیبانی 18 ساعته",
         "description": "پاسخگوی شما هستیم",
-        "icon": "fa fa-mobile"
+        "icon": "fa fa-phone-square"
       },
       {
         "id": 4,
