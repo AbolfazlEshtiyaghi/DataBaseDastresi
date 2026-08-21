@@ -858,82 +858,133 @@
       }
     ]
   },
-  "BrandSlider":{
-    "title":"محبوب ترین برندها",
-    "data":[
+  "BrandSlider": {
+    "title": "محبوب ترین برندها",
+    "data": [
       {
-        "id":1,
-        "url":"https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg"
+        "id": 1,
+        "url": "https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg"
       },
       {
-        "id":2,
-        "url":"https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg"
+        "id": 2,
+        "url": "https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg"
       },
       {
-        "id":3,
-        "url":"https://www.dastresi.com/upload/filemanager/2022/04/09/somo%20logo.png"
+        "id": 3,
+        "url": "https://www.dastresi.com/upload/filemanager/2022/04/09/somo%20logo.png"
       },
       {
-        "id":4,
-        "url":"https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg"
+        "id": 4,
+        "url": "https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg"
       },
       {
-        "id":5,
-        "url":"https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg"
+        "id": 5,
+        "url": "https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg"
       },
       {
-        "id":6,
-        "url":"https://www.dastresi.com/upload/filemanager/2024/11/21/Untitled-1.jpg"
+        "id": 6,
+        "url": "https://www.dastresi.com/upload/filemanager/2024/11/21/Untitled-1.jpg"
       },
       {
-        "id":7,
-        "url":"https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg"
+        "id": 7,
+        "url": "https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg"
       }
     ]
   },
-  "QuestionSlider":{
-    "title":"محبوب ترین برندها",
-    "data":[
+  "QuestionSlider": {
+    "title": "محبوب ترین برندها",
+    "data": [
       {
-        "id":1,
-        "title":"راهنمای قدم به قدم علت شارژ نشدن پاوربانک + رفع مشکل",
-        "url":"https://www.dastresi.com/upload/filemanager/2026/06/27/power-bank-wont-charge-fix-dastresi-featured-1.jpg"
+        "id": 1,
+        "title": "راهنمای قدم به قدم علت شارژ نشدن پاوربانک + رفع مشکل",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/06/27/power-bank-wont-charge-fix-dastresi-featured-1.jpg"
       },
       {
-        "id":2,
-        "title":"مشکل پاوربانک؛ علت شارژ نشدن و رفع قدم‌به‌قدم",
-        "url":"https://www.dastresi.com/upload/filemanager/2026/08/18/w16-hero-wm.jpg"
+        "id": 2,
+        "title": "مشکل پاوربانک؛ علت شارژ نشدن و رفع قدم‌به‌قدم",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/08/18/w16-hero-wm.jpg"
       },
       {
-        "id":3,
-        "title":"هندزفری مناسب مکالمه با ENC؛ راهنمای انتخاب کاربردی",
-        "url":"https://www.dastresi.com/upload/filemanager/2026/08/17/w15-hero-wm.jpg"
+        "id": 3,
+        "title": "هندزفری مناسب مکالمه با ENC؛ راهنمای انتخاب کاربردی",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/08/17/w15-hero-wm.jpg"
       },
       {
-        "id":4,
-        "title":"مشکل کابل شارژ آیفون؛ علت‌های رایج و راه‌حل‌های عملی",
-        "url":"https://www.dastresi.com/upload/filemanager/2026/08/17/w07-hero-wm92.jpg"
+        "id": 4,
+        "title": "مشکل کابل شارژ آیفون؛ علت‌های رایج و راه‌حل‌های عملی",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/08/17/w07-hero-wm92.jpg"
       },
       {
-        "id":5,
-        "title":"مقایسه و بررسی هندزفری لیبرتی ۵ پرو و لیبرتی ۵ پرومکس ا...",
-        "url":"https://www.dastresi.com/upload/filemanager/2026/07/05/52387652-1.jpg"
+        "id": 5,
+        "title": "مقایسه و بررسی هندزفری لیبرتی ۵ پرو و لیبرتی ۵ پرومکس ا...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/07/05/52387652-1.jpg"
       },
       {
-        "id":6,
-        "title":"راهنمای انتخاب و خرید بهترین شارژر برای سامسونگ S26 Ult...",
-        "url":"https://www.dastresi.com/upload/filemanager/2026/06/30/image-dastresi-featured-1.jpg"
+        "id": 6,
+        "title": "راهنمای انتخاب و خرید بهترین شارژر برای سامسونگ S26 Ult...",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/06/30/image-dastresi-featured-1.jpg"
       },
       {
-        "id":7,
-        "title":"راهنمای خرید شارژر فندکی خودرو + ۱۰ مدل برتر",
-        "url":"https://www.dastresi.com/upload/filemanager/2026/06/29/car-charger-buying-guide-top-10-dastresi-featured-1.jpg"
+        "id": 7,
+        "title": "راهنمای خرید شارژر فندکی خودرو + ۱۰ مدل برتر",
+        "url": "https://www.dastresi.com/upload/filemanager/2026/06/29/car-charger-buying-guide-top-10-dastresi-featured-1.jpg"
       }
     ]
   },
-  "Footer":{
-  "Part1":{
-    
-  }
+  "Footer": {
+    "head": [
+      {
+        "id": 1,
+        "title": "ضمانت اصالت کالا",
+        "description": "کالای اورجینال با زمانت معتبر",
+        "icon": "fa fa-check-square-o"
+      },
+      {
+        "id": 2,
+        "title": "ارسال سریع",
+        "description": "ارسال به سراسر کشور",
+        "icon": "fa fa-truck"
+      },
+      {
+        "id": 3,
+        "title": "پشتیبانی 18 ساعته",
+        "description": "پاسخگوی شما هستیم",
+        "icon": "fa fa-mobile"
+      },
+      {
+        "id": 4,
+        "title": "پرداخت امن",
+        "description": "درگاه های پرداخت معتبر",
+        "icon": "fa fa-credit-card"
+      }
+    ],
+    "body": {
+      "part1": {
+        "id": 1,
+        "title": "دسترسی فعالبت خود را از سال 1389 در حوزه فروش اینترنتی آغاز کردهو همواره در تلاش است بهترین خرید آنلاین را برای شما فراهم کند.",
+        "logo": "https://www.dastresi.com/images/logo/logo.png"
+      },
+      "part2":{
+        "title":"ما را در شبکه های اجتماعی دنبال کنید",
+        "data":[
+          {
+            "id":1,
+            "icon":"fa fa-instagram"
+          },
+          {
+            "id":2,
+            "icon":"fa fa-facebook-square"
+          },
+          {
+            "id":3,
+            "icon":"fa fa-linkedin-square"
+          },
+          {
+            "id":4,
+            "icon":"fa fa-telegram"
+          }
+        ]
+      }
+    }
   }
 }
