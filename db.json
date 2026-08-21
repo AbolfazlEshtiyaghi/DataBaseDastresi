@@ -1056,23 +1056,28 @@
           "data": [
             {
               "id": 1,
-              "title": "تهران، میدان امام خمینی، پاساژ لباف، پلاک ۳، همکف"
+              "title": "تهران، میدان امام خمینی، پاساژ لباف، پلاک ۳، همکف",
+              "icon":"fa fa-building-o"
             },
             {
               "id": 2,
-              "title": "۰۲۱-۳۳۹۰۲۶۲۶"
+              "title": "۰۲۱-۳۳۹۰۲۶۲۶",
+              "icon":"fa fa-phone-square"
             },
             {
               "id": 3,
-              "title": "شنبه تا چهارشنبه ۱۰ تا ۱۸"
+              "title": "شنبه تا چهارشنبه ۱۰ تا ۱۸",
+              "icon":"fa fa-clock-o"
             },
             {
               "id": 4,
-              "title": "پنجشنبه‌ها ۱۰ تا ۱۶"
+              "title": "پنجشنبه‌ها ۱۰ تا ۱۶",
+              "icon":""
             },
             {
               "id": 5,
-              "title": "info@dastresi.com"
+              "title": "info@dastresi.com",
+              "icon":"fa fa-code"
             }
           ]
         },
