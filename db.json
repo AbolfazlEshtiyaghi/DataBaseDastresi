@@ -1057,22 +1057,22 @@
             {
               "id": 1,
               "title": "تهران، میدان امام خمینی، پاساژ لباف، پلاک ۳، همکف",
-              "icon":"fa fa-building-o"
+              "icon": "fa fa-building-o"
             },
             {
               "id": 2,
               "title": "۰۲۱-۳۳۹۰۲۶۲۶",
-              "icon":"fa fa-phone-square"
+              "icon": "fa fa-phone-square"
             },
             {
               "id": 3,
               "title": "شنبه تا چهارشنبه ۱۰ تا ۱۸ پنجشنبه‌ها ۱۰ تا ۱۶",
-              "icon":"fa fa-clock-o"
+              "icon": "fa fa-clock-o"
             },
             {
               "id": 4,
               "title": "info@dastresi.com",
-              "icon":"fa fa-code"
+              "icon": "fa fa-code"
             }
           ]
         },
@@ -1080,16 +1080,9 @@
           "id": 4,
           "title": "خبرنامه",
           "description": "برای دریافت جدیدترین پیشنهادها و تخفیف‌ها در خبرنامه ما عضو شوید.",
-          "data": [
-            {
-              "id": 1,
-              "title": "ایمیل خود را وارد کنید"
-            },
-            {
-              "id": 2,
-              "title": "عضویت"
-            }
-          ]
+          "email": "ایمیل خود را وارد کنید",
+          "join": "عضویت",
+          "icon":"fa fa-envelope-o"
         }
       ]
     }
