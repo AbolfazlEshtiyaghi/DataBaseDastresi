@@ -1082,15 +1082,44 @@
           "description": "برای دریافت جدیدترین پیشنهادها و تخفیف‌ها در خبرنامه ما عضو شوید.",
           "email": "ایمیل خود را وارد کنید",
           "join": "عضویت",
-          "icon":"fa fa-envelope-o"
+          "icon": "fa fa-envelope-o"
         }
       ],
-      "part4":{
-        "MobileApp":"/DastresiNextApp/Images/DastresiMobile.png",
-        "title":"اپلیکیشن دسترسی را دریافت کنید",
-        "description":"تجربه خرید بهتر و سریعتر با اپلیکیشن موبایل",
-        "download":"دانلود اپلیکیشن"
-      }
+      "part4": {
+        "MobileApp": "/DastresiNextApp/Images/DastresiMobile.png",
+        "title": "اپلیکیشن دسترسی را دریافت کنید",
+        "description": "تجربه خرید بهتر و سریعتر با اپلیکیشن موبایل",
+        "download": "دانلود اپلیکیشن"
+      },
+      "part5": [
+        {
+          "id": 1,
+          "title": "ارسال سریع با گارانتی",
+          "description": "به سراسر کشور",
+          "icon": "fa fa-check-square-o"
+        },
+        {
+          "id": 2,
+          "title": "ضمانت بازگشت کالا",
+          "description": "7 روز ضمانت بازگشت",
+          "icon": "fa fa-wheelchair-alt"
+        },
+        {
+          "id": 3,
+          "title": "درگاه پرداخت امن",
+          "icon": "fa fa-phone-square"
+        },
+        {
+          "id": 4,
+          "title": "",
+          "description": "نماد اعتماد الکتریکی",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2_9SbY45Ia-xd1DYI-Qr1EpkUG-XJa5TtvJIbXgY2ssNWCNv"
+        }
+      ]
+    },
+    "foot": {
+      "title": "تمامی حقوق این سایت محفوظ و متعلق به فروشگاه اینترنتی دسترسی می‌باشد.",
+      "title2": "خلق شده توسط T3N6A9 CBGMG 🌀♻️"
     }
   }
 }
