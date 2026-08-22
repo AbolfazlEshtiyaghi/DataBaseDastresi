@@ -1084,7 +1084,13 @@
           "join": "عضویت",
           "icon":"fa fa-envelope-o"
         }
-      ]
+      ],
+      "part4":{
+        "MobileApp":"/DastresiNextApp/Images/DastresiMobile.png",
+        "title":"اپلیکیشن دسترسی را دریافت کنید",
+        "description":"تجربه خرید بهتر و سریعتر با اپلیکیشن موبایل",
+        "download":"دانلود اپلیکیشن"
+      }
     }
   }
 }
